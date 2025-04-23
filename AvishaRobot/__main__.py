@@ -357,7 +357,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             random.choice(NYKAA),
-            caption="⬤ ๛ᴀ ʟ ɪ s ʜ ᴀ ࿐ ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.\n\n⬤ ᴜᴘᴛɪᴍᴇ ➥ <code>{}</code>".format(
+            caption="⬤ ๛ᴀɴʏ ࿐ ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.\n\n⬤ ᴜᴘᴛɪᴍᴇ ➥ <code>{}</code>".format(
                 uptime
             ),
             reply_markup=InlineKeyboardMarkup(roy),
@@ -503,7 +503,7 @@ def Avisha_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(text="⌯ ʙᴀᴄᴋ ⌯", callback_data="avisha_back"),
-                        InlineKeyboardButton(text="˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/the_incricible"),
+                        InlineKeyboardButton(text="˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/THUNDERDEVS"),
                     ],
                 ]
             ),
@@ -517,7 +517,7 @@ def Avisha_about_callback(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(text="⌯ ʙᴀᴄᴋ ⌯", callback_data="avisha_back"),
                         InlineKeyboardButton(
-                            text="˹ υᴘᴅᴧᴛєs ˼", url=f"https://t.me/the_incricible"
+                            text="˹ υᴘᴅᴧᴛєs ˼", url=f"https://t.me/THUNDERDEVS"
                         ),
                     ],
                 ]
@@ -1166,7 +1166,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="⌯ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ⌯",
-                            url="https://t.me/AlisaMusicRobot?startgroup=true"
+                            url="https://t.me/Anyxrobot?startgroup=true"
                             )
                        ]
                 ]
@@ -1185,7 +1185,7 @@ def main():
 **● ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➥** `{tlhver}`
 **● ᴩʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ ➥** `{pyrover}`
 
-**❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [๛ᴀ ʀ ɪ s ʜ ᴀ ࿐](https://t.me/the_incricible)**
+**❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [๛ᴀ ʀ ɪ s ʜ ᴀ ࿐](https://t.me/THUNDERDEVS)**
      ━━━━━━━━ ⊱◈◈◈⊰ ━━━━━━━━
 """,reply_markup=x,
                 parse_mode=ParseMode.MARKDOWN,
