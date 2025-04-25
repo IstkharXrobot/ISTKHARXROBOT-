@@ -1166,7 +1166,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="⌯ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ⌯",
-                            url="https://t.me/Anyxrobot?startgroup=true"
+                            url="https://t.me/AvishaXRobot?startgroup=true"
                             )
                        ]
                 ]
